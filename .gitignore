@@ -1,0 +1,10 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python virtual environment and cache
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Environment variables (where database passwords will eventually go)
+.env
